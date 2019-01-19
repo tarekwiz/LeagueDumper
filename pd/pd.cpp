@@ -11,7 +11,6 @@
 #include "simple.h"
 #include "work_queue.h"
 #include <thread>
-#include "pd.h"
 #include "close_watcher.h"
 
 
